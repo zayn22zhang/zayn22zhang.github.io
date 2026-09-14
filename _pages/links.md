@@ -12,14 +12,15 @@ You can find more in [Quantiki](https://www.quantiki.org).
 ## Europe
 
 ### [Quantum Information and Communication(Geneva)](https://www.unige.ch/gap/qic/)
+### [Quantum Information(ETHz)](https://qit.ethz.ch/)
 ### [IQOQI(Vienna)](https://www.iqoqi-vienna.at/)
-### [ICFO (Barcelona)](https://www.icfo.eu/)
+### [Complex Quantum Systems(Berlin)](https://www.physik.fu-berlin.de/einrichtungen/ag/ag-eisert/)
 ### [Theoretical Quantum Optics(Siegen)](https://www.uni-siegen.de/en/physics/tqo)
-### [Quantum information theory, quantum many-body theory, and quantum optics(Berlin)]([https://www.physik.fu-berlin.de/einrichtungen/ag/ag-eisert])
-### [ICTQT(Poland)](https://ictqt.ug.edu.pl/)
+### [ICFO (Barcelona)](https://www.icfo.eu/)
 ### [Qmath(Copenhagen)](https://qmath.ku.dk/)
 ### [QICS(Paris)](https://qics.sorbonne-universite.fr/en)
 ### [QuSoft(Netherland)](https://qusoft.org/)
+### [ICTQT(Poland)](https://ictqt.ug.edu.pl/)
 
 ## North America
 
