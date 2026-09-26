@@ -11,11 +11,12 @@ redirect_from:
 
 Education
 ======
+
+* Visiting in Prof.Otfried Gühne's group, Siegen University, 2026.9-now
 * MSc. in Quantum Science and Technology, TUM&LMU, 2025.10-now
-* Intership in Prof.Guehne's group, Siegen University, 2026.9-now
 * BSc. in Physics, Hainan University, 2021.9-2025.6
 
-Work experience
+Teaching experience
 ======
 * Summer 2023: Teaching Assistant
   * Hainan University
