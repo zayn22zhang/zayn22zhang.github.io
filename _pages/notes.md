@@ -28,6 +28,4 @@ Here are some great notes for study
 
 - [Quantum Key Distribution](/files/QKD.pdf)
 
-- [Quantum Complexity](/files/QCT.pdf)
-
 - [General Relativity](/files/GR-note.pdf)
