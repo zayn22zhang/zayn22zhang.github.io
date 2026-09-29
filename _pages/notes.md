@@ -17,7 +17,7 @@ Here are some of my written notes.
 - [Operator Theory](/files/OT.pdf)
 
 ### Information Theory
--[Information Theory](/files/IT.pdf)
+- [Information Theory](/files/IT.pdf)
   
 ### Physics
 
