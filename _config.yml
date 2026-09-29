@@ -19,7 +19,7 @@ repository               : "academicpages/academicpages.github.io"
 
 # Site Author
 author:
-  avatar           : "cv.png"
+  avatar           : "images/cv.png"
   name             : "Yan Zhang"
   bio              : "Aug/2003"
   location         : "Munich"
