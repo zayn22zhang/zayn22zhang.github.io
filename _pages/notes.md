@@ -4,8 +4,7 @@ title: "Lecture Notes"
 permalink: /notes/
 author_profile: true
 ---
-
-Here are some great notes for study
+Here are some of my written notes.
 
 ### Mathematical Methods for Quantum Information
 
@@ -22,8 +21,12 @@ Here are some great notes for study
   
 ### Physics
 
-- [Quantum Information](/files/QI-book.pdf)
+- [Quantum Information](/files/QI.pdf)
+
+- [Quantum Foundation](/files/QF.pdf)
 
 - [Quantum Key Distribution](/files/QKD.pdf)
 
-- [General Relativity](/files/GR-note.pdf)
+- [General Relativity](/files/GR.pdf)
+
+- [Quantum Field Theory](/files/QFT.pdf)
