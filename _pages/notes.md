@@ -10,17 +10,15 @@ Here are some great notes for study
 ### Mathematical Methods for Quantum Information
 
 #### Algebra
-- [Group Theory](/files/gruppen_en.pdf)
+- [Group Theory](/files/GT.pdf)
+- [Multilinear Algebra](/files/MA.pdf)
 
 #### Analysis
-- [Functional Analysis& Operator Theory](/files/MQM.pdf)
-
-#### Advanced Topics
-- [Matrix Analysis](/files/matrixPD.pdf)
-- [Tensor Networks](/files/TNQC.pdf)
-- [Probabilistic Theories](/files/Probabilistic_theories.pdf)
+- [Functional Analysis](/files/FA.pdf)
+- [Operator Theory](/files/OT.pdf)
 
 ### Information Theory
+-[Information Theory](/files/IT.pdf)
   
 ### Physics
 
