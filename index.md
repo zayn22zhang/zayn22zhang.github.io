@@ -1,11 +1,10 @@
 ---
-permalink: /
-title: "zayn"
-layout: single
+permalink: /about/
+title: "Yan"
 author_profile: true
 ---
-Aside from math and physics, I have a wide range of personal interests that keep me energized:
+I am a Quantum Science and Technology master program student at the School of Natural Sciences, Technical University of Munich (TUM), and Ludwig Maximilian University of Munich (LMU). My research interests include quantum information theory, quantum foundations and quantum key distribution.
 
-* **Reading**: In my free time, I love reading books on Economics and Literature. 
-* **Sports**: Sports are a huge part of my life. Football is my absolute favorite，my favorite team is Arsenal. I also enjoy swimming and fitness training.
-* **Music**: Music is a daily essential for me. R&B is my top favorite, and I also listen to a lot of Rap, Pop, and some Rock.
+In quantum foundations, I am interested in Bell nonlocality and the role of Quantum Resource Theory as a unified framework for characterizing and quantifying physical scenario. Also quantum gravity is an appealing topic.
+
+In quantum information theory, I am particularly interested in some mathematical and information-theoretic tools to explore quantum systems. I am also interested in multipartite entanglement and its application to quantum networks or quantum key distribution
