@@ -16,7 +16,7 @@ Education
 * MSc. in Quantum Science and Technology, TUM&LMU, 2025.10-now
 * BSc. in Physics, Hainan University, 2021.9-2025.6
 
-Teaching experience
+Working
 ======
 * Summer 2023: Teaching Assistant
   * Hainan University
