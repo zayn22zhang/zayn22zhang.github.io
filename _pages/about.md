@@ -1,6 +1,6 @@
 ---
 permalink: /about/
-title: "About Me"
+title: "Research Interest"
 author_profile: true
 ---
 I am a Quantum Science and Technology master program student at the School of Natural Sciences, Technical University of Munich (TUM), and Ludwig Maximilian University of Munich (LMU). My research interests include quantum information theory, quantum foundations and quantum key distribution.
