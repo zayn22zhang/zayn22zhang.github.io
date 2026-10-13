@@ -16,8 +16,6 @@ Here are some of my written notes.
 - [Functional Analysis](/files/FA.pdf)
 - [Operator Theory](/files/OT.pdf)
 
-### Information Theory
-- [Information Theory](/files/IT.pdf)
   
 ### Physics
 
