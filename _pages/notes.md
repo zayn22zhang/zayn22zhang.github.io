@@ -9,11 +9,11 @@ Here are some of my written notes.
 ### Mathematical Methods for Quantum Information
 
 #### Algebra
-- [Group Theory](/files/GT.pdf) not done
-- [Multilinear Algebra](/files/MA.pdf) growing
+- [Group Theory](/files/GT.pdf)
+- [Multilinear Algebra](/files/MA.pdf) still growing
 
 #### Analysis
-- [Functional Analysis](/files/FA.pdf) growing
+- [Functional Analysis](/files/FA.pdf) still growing
 - [Operator Theory](/files/OT.pdf)
 
   
