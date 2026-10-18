@@ -19,11 +19,11 @@ Here are some of my written notes.
   
 ### Physics
 
-- [Quantum Information](/files/QI.pdf)
-
-- [Quantum Foundation](/files/QF.pdf)
+- [Quantum Information Theory](/files/QIT.pdf)
 
 - [Quantum Key Distribution](/files/QKD.pdf)
+
+- [Quantum Foundation](/files/QF.pdf)
 
 - [General Relativity](/files/GR.pdf)
 
