@@ -9,11 +9,11 @@ Here are some of my written notes.
 ### Mathematical Methods for Quantum Information
 
 #### Algebra
-- [Group Theory](/files/GT.pdf)
-- [Multilinear Algebra](/files/MA.pdf)
+- [Group Theory](/files/GT.pdf) not done
+- [Multilinear Algebra](/files/MA.pdf) growing
 
 #### Analysis
-- [Functional Analysis](/files/FA.pdf)
+- [Functional Analysis](/files/FA.pdf) growing
 - [Operator Theory](/files/OT.pdf)
 
   
@@ -23,8 +23,8 @@ Here are some of my written notes.
 
 - [Quantum Key Distribution](/files/QKD.pdf)
 
-- [Quantum Foundation](/files/QF.pdf)
+- [Quantum Foundation](/files/QF.pdf) not done
 
-- [General Relativity](/files/GR.pdf)
+- [General Relativity](/files/GR.pdf) not done
 
-- [Quantum Field Theory](/files/QFT.pdf)
+- [Quantum Field Theory](/files/QFT.pdf) not done
