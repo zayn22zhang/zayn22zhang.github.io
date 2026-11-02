@@ -4,7 +4,7 @@ title: "Lecture Notes"
 permalink: /notes/
 author_profile: true
 ---
-Here are some of my written notes.
+Here are some of my notes.
 
 ### Mathematical Methods for Quantum Information
 
@@ -24,6 +24,9 @@ Here are some of my written notes.
 - [Quantum Key Distribution](/files/QKD.pdf)
 
 - [Quantum Foundation](/files/QF.pdf) not done
+
+- [Framework of Quantum Theory](/files/QTheory.pdf) still growing
+  (Advanced topics in quantum theory)
 
 - [General Relativity](/files/GR.pdf) not done
 
