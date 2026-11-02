@@ -19,9 +19,9 @@ Here are some of my notes.
   
 ### Physics
 
-- [Quantum Information Theory](/files/QIT.pdf)
+- [Quantum Information](/files/QIT.pdf)
 
-- [Quantum Key Distribution](/files/QKD.pdf)
+- [Quantum Cryptography](/files/QKD.pdf)
 
 - [Quantum Foundation](/files/QF.pdf) not done
 
