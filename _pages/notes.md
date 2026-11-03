@@ -6,7 +6,7 @@ author_profile: true
 ---
 Here are some of my notes.
 
-### Math
+### Math(Based on Lectures)
 
 #### Algebra
 - [Group Theory](/files/GT.pdf)
@@ -30,5 +30,4 @@ Here are some of my notes.
 - [Quantum Field Theory](/files/QFT.pdf) not done
 
 #### Framework of Quantum Theory(always growing)
-
-- [Quantum Resource Theories](/files/QRTs.pdf)
+- [Quantum Resource Theory](/files/QRTs.pdf)
