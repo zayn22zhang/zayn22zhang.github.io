@@ -1,12 +1,12 @@
 ---
 layout: single
-title: "Lecture Notes"
+title: "Lecture Notes and Research Notes"
 permalink: /notes/
 author_profile: true
 ---
 Here are some of my notes.
 
-### Mathematical Methods for Quantum Information
+### Math
 
 #### Algebra
 - [Group Theory](/files/GT.pdf)
@@ -25,9 +25,10 @@ Here are some of my notes.
 
 - [Quantum Foundation](/files/QF.pdf) not done
 
-- [Framework of Quantum Theory](/files/QTheory.pdf) still growing
-  (Advanced topics in quantum theory)
-
 - [General Relativity](/files/GR.pdf) not done
 
 - [Quantum Field Theory](/files/QFT.pdf) not done
+
+#### Framework of Quantum Theory(always growing)
+
+- [Quantum Resource Theories](/files/QRTs.pdf)
