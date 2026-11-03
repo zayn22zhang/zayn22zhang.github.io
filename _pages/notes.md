@@ -30,4 +30,7 @@ Here are some of my notes.
 - [Quantum Field Theory](/files/QFT.pdf) not done
 
 #### Framework of Quantum Theory(always growing)
-- [Quantum Resource Theory](/files/QRTs.pdf)
+
+- [Quantum Reference Frames](/files/QRFs.pdf)
+
+- [Quantum Resource Theories](/files/QRTs.pdf)
