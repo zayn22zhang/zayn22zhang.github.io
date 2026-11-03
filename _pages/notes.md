@@ -31,6 +31,8 @@ Here are some of my notes.
 
 #### Framework of Quantum Theory(always growing)
 
+- [Generalized Probabilistic Theories](/files/GPTs.pdf)
+
 - [Quantum Reference Frames](/files/QRFs.pdf)
 
 - [Quantum Resource Theories](/files/QRTs.pdf)
