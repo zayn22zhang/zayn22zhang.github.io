@@ -29,4 +29,3 @@ Here are some of my notes.
 
 - [Quantum Field Theory](/files/QFT.pdf) not done
 
-- [Quantum Resource Theories](/files/QRTs.pdf)
