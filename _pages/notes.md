@@ -21,18 +21,12 @@ Here are some of my notes.
 
 - [Quantum Information](/files/QIT.pdf)
 
-- [Quantum Cryptography](/files/QKD.pdf)
-
 - [Quantum Foundation](/files/QF.pdf) not done
+  
+- [Quantum Cryptography](/files/QKD.pdf)
 
 - [General Relativity](/files/GR.pdf) not done
 
 - [Quantum Field Theory](/files/QFT.pdf) not done
-
-#### Framework of Quantum Theory(always growing)
-
-- [Generalized Probabilistic Theories](/files/GPTs.pdf)
-
-- [Quantum Reference Frames](/files/QRFs.pdf)
 
 - [Quantum Resource Theories](/files/QRTs.pdf)
